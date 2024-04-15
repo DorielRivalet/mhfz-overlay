@@ -1978,8 +1978,8 @@
     <PackageReference Include="System.Drawing.Common" Version="8.0.3" />
     <PackageReference Include="Velopack" Version="0.0.359" />
     <PackageReference Include="VirtualizingWrapPanel" Version="2.0.5" />
-    <PackageReference Include="WPF-UI" Version="3.0.3" />
-    <PackageReference Include="WPF-UI.Tray" Version="3.0.3" />
+    <PackageReference Include="WPF-UI" Version="3.0.4" />
+    <PackageReference Include="WPF-UI.Tray" Version="3.0.4" />
     <PackageReference Include="WpfAnimatedGif" Version="2.0.2" />
     <PackageReference Include="XamlAnimatedGif" Version="2.2.3" />
     <PackageReference Include="XInputium" Version="1.2.0" />
