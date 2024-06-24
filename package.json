@@ -21,7 +21,7 @@
   "homepage": "https://github.com/DorielRivalet/MHFZ_Overlay#readme",
   "dependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
-    "release-it": "^17.3.0"
+    "release-it": "^17.4.0"
   },
   "release-it": {
     "git": {
