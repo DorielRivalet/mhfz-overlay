@@ -88,7 +88,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
-    "@commitlint/config-conventional": "^19.1.0",
+    "@commitlint/config-conventional": "^19.5.0",
     "alex": "^11.0.1",
     "husky": "^9.0.11"
   }
